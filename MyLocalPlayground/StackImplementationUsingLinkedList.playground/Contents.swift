@@ -59,8 +59,7 @@ class Stack<T> {
 
 let newStack = Stack<String>()
 newStack.push(value: "Dog")
-newStack.push(value: "Cat")
-newStack.push(value: "Mouse")
+    
 
 newStack.pop()
 
